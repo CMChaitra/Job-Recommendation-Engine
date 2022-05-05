@@ -1,0 +1,2 @@
+# Job-Recommendation-Engine
+###### The job recommendation system assists students in planning career options or professional skills based on graduate profiles. Choosing a job without the proper service information in the job recommendation route can lead to challenges in suggesting a profession by students based on their field of expertise and profiles of graduates of the study program they are interested in. The recommendation system takes into account the student's skills, interests, UG Course and sepcialisation in recommending him/her a proper job.
